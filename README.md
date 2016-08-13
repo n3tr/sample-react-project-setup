@@ -1,7 +1,7 @@
 # Sample React Project
 
 ```
-git clone
+git clone https://github.com/n3tr/sample-react-project-setup
 npm install
 npm start
 ```
